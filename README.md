@@ -1,2 +1,3 @@
 # JanGroup2
-Git bash test
+
+Git bash test by Yihun
